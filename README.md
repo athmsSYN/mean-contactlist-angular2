@@ -5,4 +5,7 @@ Contact List is a RESTful API server and web application built with the MEAN (An
 
 You can deploy a live copy of this application to Heroku with the button below.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/chrisckchang/mean-contactlist-angular2)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/athmssyn/mean-contactlist-angular2)
+
+Working to make it deployable to AWS.
+
